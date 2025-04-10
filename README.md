@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on frontend projects, portfolio websites, and interactive web applications
 - 📫 How to reach me: danimoreloza@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can debug code faster than I can find my car keys😁
+- ⚡ Fun fact: I can debug code faster than I can find my  keys😁
 
 
 <!---
